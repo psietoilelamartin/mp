@@ -4,83 +4,54 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="Content-Language" content="fr">
     <meta name=viewport content="width=device-width, initial-scale=1">
-    <title>PSI* La Martinière Monplaisir</title>
-    <style type="text/css" media="screen">@import url(css/style.css);</style>
-    <link rel="icon" href="img/favicon.png" type="image/png" />
+    <title>MP La Martinière Monplaisir </title>
+    <style type="text/css" media="screen">@import url(../../css/style.css);</style>
+    <link rel="icon" href="../../img/favicon.png" type="image/png" />
     
-    <style type="text/css" media="screen">@import url(css/style.css);</style>
-    <link rel="icon" href="img/favicon.png" type="image/png" />
-    <script type="text/javascript" src="script/jquery-1.5.1.min.js"></script>
-      
-	<script type="text/javascript">
+    <script type="text/javascript" src="../../script/jquery-1.5.1.min.js"></script>
+                  
+    <script type="text/javascript">
       $(document).ready(function(){
-      $('#target-nav-orga').load('https://psietoilelamartin.github.io/menus/nav-orga.html');
+	  $('#target-nav-info').load('https://psietoilelamartin.github.io/menus/nav-info.html');
       });
-   </script>  
-                 
+    </script>  
+    
   </head>
   
-<body id="fondorga">          
-<div id="nav">     
-<div id="target-nav-orga">    
-</div>
-</div>   
-<br>
-
-    <div id="hideoverflow">
-      <div id="outer">
-        <div id="inner">
-          <div id="contenu">
-			<font style="font-weight: bold "> <center> Actualités </center> </font><br>
-			<table>
-			<tbody>
-			<!-- <tr><td> &bull; <a id="organ" href="https://forms.gle/moFkTt5wyvMvwwVX7"> Fiche de renseignements &nbsp;</a> </td></tr> -->
-			
-			<!-- <tr><td> &bull; <a id="organ" href="orga/EDT_PSI_2024_2025_Semaine1.pdf"> Emploi du temps semaine 1 &nbsp;</a> </td></tr> -->
-			
-			
-			
-			<tr><td> &bull; <a id="organ" href="orga/EDT_2025-2026_Semaine1.pdf"> Emploi du temps première semaine&nbsp;</a> </td></tr>
-			<tr><td> &bull; <a id="organ" href="orga/EDT_2025-2026.pdf"> Emploi du temps 2025 - 2026&nbsp;</a> </td></tr>
-			
-			<tr><td> &bull; <a id="organ" href="orga/EDT_2025-2026_FULL.pdf"> Emploi du temps 2025 - 2026 Upgradé&nbsp;</a> </td></tr>
-			
-			<tr><td> &bull; <a id="organ" href="https://forms.gle/YmaLRwtvnen1Aikb9"> Questionnaire de rentrée &nbsp;</a> </td></tr>
-			
-			
-			<!--<tr><td> &bull; <a id="organ" href="https://docs.google.com/spreadsheets/d/1T3xW5vRBCwsNa94LlXv-zCciqsheJOUwOxU9YUjEmdA/edit?usp=sharing"> Planning des simulations &nbsp;</a> </td></tr> -->
-			
-			<!-- <tr><td> &bull; <a id="organ" href="orga/Colloscope_2024_2025.pdf"> Colloscope et rotations - Version du 04/11 &nbsp;</a> </td></tr> -->
-			</tbody>
-			</table>
-			<br/>     
-			</div>
+  
+  <body id="fondinfo">
+    
+    <div id="nav">  
+		<div id="target-nav-info">    
+    
+	  </div>
 	</div>
-      </div>
-    </div>  
-	  
-	  <p></p>
-	  
+    
+
+  
     <div id="hideoverflow">
       <div id="outer">
-        <div id="inner">		
-		  <div id="contenu">
-	    <font style="font-weight: bold ;"> <center> Informations  </center></font><br>
+	<div id="inner">
+	  <div id="contenu">
+	    <font style="font-weight: bold ;"> <center> Les cours </center></font>
+	    
+	    Merci à M. Solnon (PT, lycée Gustave Eiffel, Dijon ) qui nous permet d'utiliser ses documents de cours et de TP.
 	    <table>
 	      <tbody>
-		<tr><td> &bull; <a id="organ" href="http://scei-concours.fr/"> Inscription aux concours &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="organ" href="http://prepas.org/"> Associations des professeurs de CPGE :</a> informations sur les CPGE, sur les écoles, sujets et corrigés en Mathématiques, Physique-Chimie et Informatique </td></tr>
-		<tr><td> &bull; <a id="organ" href="https://www.upsti.fr/espace-etudiants/annales-de-concours"> Association des professeurs de SII : </a> informations sur les CPGE, annales de concours en SII et en Informatique. </td></tr>
+		<tr><td> &bull; <a id="math" href="cours/SQL.chap.pdf" target="_blank"> Chapitre I : Bases de données et langage SQL &nbsp;</a></td></tr>
+		<tr><td> &bull; <a id="math" href="cours/DIC.chap.pdf" target="_blank"> Chapitre II : Listes et dictionnaires &nbsp;</a></td></tr>
+		<tr><td> &bull; <a id="math" href="cours/DYN.chap.pdf" target="_blank"> Chapitre III : Programmation dynamique &nbsp;</a></td>
+				<td> &bull; <a id="math" href="cours/DYN-cor.pdf" target="_blank"> Programmes Python &nbsp;</a></td>
+		</tr>
+		<tr><td> &bull; <a id="math" href="cours/JEU.chap.pdf" target="_blank"> Chapitre IV : Jeux d'accessibilité à deux joueurs &nbsp;</a></td></tr>
+		<tr><td> &bull; <a id="math" href="cours/MIN.chap.pdf" target="_blank"> Chapitre V : Algorithme de min-max &nbsp;</a> </td></tr>
+		<tr><td> &bull; <a id="math" href="cours/KNN.chap.pdf" target="_blank"> Chapitre VI : Algorithme des K plus proches voisins &nbsp;</a></td>
+				<td> &bull; <a id="math" href="cours/fleches_donnees.py" target="_blank"> Exercice : détection de flèches &nbsp;</a></td></tr>
+		<tr><td> &bull; <a id="math" href="cours/Kme.chap.pdf" target="_blank"> Chapitre VII : Algorithme des K moyennes &nbsp;</a></td></tr>
 	      </tbody>
 	    </table>
-	  </div>	 
+	  </div>
 	</div>
       </div>
-    </div>  
-  
-
-	</div>
-      </div>
-    </div>  
-  </body>
+    </div>    
 </html>
