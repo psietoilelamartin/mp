@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="fr">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title>PSI* La Martinière Monplaisir</title>
+    <style type="text/css" media="screen">@import url(css/style.css);</style>
+    <link rel="icon" href="img/favicon.png" type="image/png" />
+    
+    <style type="text/css" media="screen">@import url(css/style.css);</style>
+    <link rel="icon" href="img/favicon.png" type="image/png" />
+    <script type="text/javascript" src="script/jquery-1.5.1.min.js"></script>
+      
+	<script type="text/javascript">
+      $(document).ready(function(){
+      $('#target-nav-orga').load('https://psietoilelamartin.github.io/menus/nav-orga.html');
+      });
+   </script>  
+                 
+  </head>
+  
+<body id="fondorga">          
+<div id="nav">     
+<div id="target-nav-orga">    
+</div>
+</div>   
+<br>
+
+    <div id="hideoverflow">
+      <div id="outer">
+        <div id="inner">
+          <div id="contenu">
+			<font style="font-weight: bold "> <center> Actualités </center> </font><br>
+			<table>
+			<tbody>
+			<!-- <tr><td> &bull; <a id="organ" href="https://forms.gle/moFkTt5wyvMvwwVX7"> Fiche de renseignements &nbsp;</a> </td></tr> -->
+			
+			<!-- <tr><td> &bull; <a id="organ" href="orga/EDT_PSI_2024_2025_Semaine1.pdf"> Emploi du temps semaine 1 &nbsp;</a> </td></tr> -->
+			
+			
+			
+			<tr><td> &bull; <a id="organ" href="orga/EDT_2025-2026_Semaine1.pdf"> Emploi du temps première semaine&nbsp;</a> </td></tr>
+			<tr><td> &bull; <a id="organ" href="orga/EDT_2025-2026.pdf"> Emploi du temps 2025 - 2026&nbsp;</a> </td></tr>
+			
+			<tr><td> &bull; <a id="organ" href="orga/EDT_2025-2026_FULL.pdf"> Emploi du temps 2025 - 2026 Upgradé&nbsp;</a> </td></tr>
+			
+			<tr><td> &bull; <a id="organ" href="https://forms.gle/YmaLRwtvnen1Aikb9"> Questionnaire de rentrée &nbsp;</a> </td></tr>
+			
+			
+			<!--<tr><td> &bull; <a id="organ" href="https://docs.google.com/spreadsheets/d/1T3xW5vRBCwsNa94LlXv-zCciqsheJOUwOxU9YUjEmdA/edit?usp=sharing"> Planning des simulations &nbsp;</a> </td></tr> -->
+			
+			<!-- <tr><td> &bull; <a id="organ" href="orga/Colloscope_2024_2025.pdf"> Colloscope et rotations - Version du 04/11 &nbsp;</a> </td></tr> -->
+			</tbody>
+			</table>
+			<br/>     
+			</div>
+	</div>
+      </div>
+    </div>  
+	  
+	  <p></p>
+	  
+    <div id="hideoverflow">
+      <div id="outer">
+        <div id="inner">		
+		  <div id="contenu">
+	    <font style="font-weight: bold ;"> <center> Informations  </center></font><br>
+	    <table>
+	      <tbody>
+		<tr><td> &bull; <a id="organ" href="http://scei-concours.fr/"> Inscription aux concours &nbsp;</a></td></tr>
+		<tr><td> &bull; <a id="organ" href="http://prepas.org/"> Associations des professeurs de CPGE :</a> informations sur les CPGE, sur les écoles, sujets et corrigés en Mathématiques, Physique-Chimie et Informatique </td></tr>
+		<tr><td> &bull; <a id="organ" href="https://www.upsti.fr/espace-etudiants/annales-de-concours"> Association des professeurs de SII : </a> informations sur les CPGE, annales de concours en SII et en Informatique. </td></tr>
+	      </tbody>
+	    </table>
+	  </div>	 
+	</div>
+      </div>
+    </div>  
+  
+
+	</div>
+      </div>
+    </div>  
+  </body>
+</html>
