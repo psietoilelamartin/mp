@@ -1,22 +1,23 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="Content-Language" content="fr">
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <title>MP La Martinière Monplaisir </title>
-    <style type="text/css" media="screen">@import url(../../css/style.css);</style>
-    <link rel="icon" href="../../img/favicon.png" type="image/png" />
+
+<head>
+
+  	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  	<meta http-equiv="Content-Language" content="fr">
+  	<meta name=viewport content="width=device-width, initial-scale=1">
+  	<title> MP La Martinière Monplaisir </title>
+  	<style type="text/css" media="screen">@import url(css/style.css);</style>
+	<link rel="icon" href="img/favicon.png" type="image/png" />
+      <script type="text/javascript" src="https://psietoilelamartin.github.io/script/jquery-1.5.1.min.js"></script>   		
     
-    <script type="text/javascript" src="../../script/jquery-1.5.1.min.js"></script>
-                  
-    <script type="text/javascript">
+	<script type="text/javascript">
       $(document).ready(function(){
-	  $('#target-nav-info').load('https://psietoilelamartin.github.io/menus/nav-info.html');
+      $('#target-nav-info').load('https://psietoilelamartin.github.io/menus/nav-info.html');
       });
-    </script>  
-    
-  </head>
+   </script>  
+   
+   </head>
   
   
   <body id="fondinfo">
@@ -26,32 +27,34 @@
     
 	  </div>
 	</div>
-    
-
+        
   
-    <div id="hideoverflow">
+    
+<br>
+    
+   <div id="hideoverflow">
       <div id="outer">
-	<div id="inner">
-	  <div id="contenu">
-	    <font style="font-weight: bold ;"> <center> Les cours </center></font>
-	    
-	    Merci à M. Solnon (PT, lycée Gustave Eiffel, Dijon ) qui nous permet d'utiliser ses documents de cours et de TP.
-	    <table>
+        <div id="inner">
+          <div id="contenu">
+	    <font style="font-weight: bold ;"> <center>Informatique Tronc Commun MP </center></font><br>        
+	    <table>	
 	      <tbody>
-		<tr><td> &bull; <a id="math" href="cours/SQL.chap.pdf" target="_blank"> Chapitre I : Bases de données et langage SQL &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="math" href="cours/DIC.chap.pdf" target="_blank"> Chapitre II : Listes et dictionnaires &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="math" href="cours/DYN.chap.pdf" target="_blank"> Chapitre III : Programmation dynamique &nbsp;</a></td>
-				<td> &bull; <a id="math" href="cours/DYN-cor.pdf" target="_blank"> Programmes Python &nbsp;</a></td>
-		</tr>
-		<tr><td> &bull; <a id="math" href="cours/JEU.chap.pdf" target="_blank"> Chapitre IV : Jeux d'accessibilité à deux joueurs &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="math" href="cours/MIN.chap.pdf" target="_blank"> Chapitre V : Algorithme de min-max &nbsp;</a> </td></tr>
-		<tr><td> &bull; <a id="math" href="cours/KNN.chap.pdf" target="_blank"> Chapitre VI : Algorithme des K plus proches voisins &nbsp;</a></td>
-				<td> &bull; <a id="math" href="cours/fleches_donnees.py" target="_blank"> Exercice : détection de flèches &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="math" href="cours/Kme.chap.pdf" target="_blank"> Chapitre VII : Algorithme des K moyennes &nbsp;</a></td></tr>
-	      </tbody>
+		<tr><td> &bull; <a id="math" href="calendrier_info_mp.pdf"> Calendrier </a></td></tr> 
+		<tr><td> &bull; <a id="math" href="cours.html"> Cours </a></td></tr> 
+		<tr><td> &bull; <a id="math" href="TP.html"> TP </a></td></tr> 
+		<tr><td> &bull; <a id="math" href="DM.html"> DM </a></td></tr> 
+		<tr><td> &bull; <a id="math" href="DS.html"> DS </a></td></tr> 
+		<tr><td> &bull; <a id="math" href="mementocentrale2 .pdf"> Memento Centrale 2 </a></td></tr> 
+		<!--<tr><td> &bull; <a id="math" href="prepaCentrale2MP.pdf"> Énoncés Centrale 2 </a></td></tr> 
+		<tr><td> &bull; <a id="math" href="prepaCentrale2MP-cor.pdf"> Corrigés Centrale 2 </a></td></tr>
+		<tr><td> &bull; <a id="math" href="maths/DM.html"> DM </a></td></tr> 
+		<tr><td> &bull; <a id="math" href="maths/DS.html"> DS </a></td></tr> -->
+              </tbody>
 	    </table>
 	  </div>
 	</div>
       </div>
-    </div>    
+    </div>
+   
+</body>
 </html>
