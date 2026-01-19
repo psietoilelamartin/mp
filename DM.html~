@@ -20,12 +20,7 @@
   
   <body id="fondinfo">
     
-    <div id="nav">  
-		<div id="target-nav-info">    
-    
-	  </div>
-	</div>
-    
+  
 
   
     <div id="hideoverflow">
@@ -35,22 +30,24 @@
 	   <font style="font-weight: bold ;"> Devoirs maison :</font><br>
 	    <table>
 	      <tbody>
-		<!--
-		<tr>
-		  <td>&bull;  DM n° 1 :
-		  </td>
-		  <td>   <a id="ipt" href="https://capytale2.ac-paris.fr/web/c/285e-4099363" target="_blank">à rendre avant le dimanche 3 novembre minuit (SQL)</a> &nbsp;
-		  </td>
+
+ 		<ul>
+			<li> DM n° 2, <a id="ipt" href="https://capytale2.ac-paris.fr/web/c/9123-8723453" target="_blank">
+			  à rendre avant le dimanche 4 janvier minuit (manipulations d'image et programmation dynamique)</a>
+			</li>
+			  
+		<li>  DM n° 1 : Vous pouvez traiter au choix l'un des deux (ou les deux) sujets, sous forme
+			  de notebook - à rendre avant le dimanche 2 novembre minuit.
+		  <ul>
+			  <li><a id="ipt" href="https://capytale2.ac-paris.fr/web/c/7b7c-7670002" target="_blank"> SQL </a></li>
+		 	  <li><a id="ipt" href="https://capytale2.ac-paris.fr/web/c/d359-7670104" target="_blank">Programmation dynamique </a></li>
+		      <li><a id="ipt" href="https://capytale2.ac-paris.fr/web/c/089f-7849869" target="_blank">Correction SQL</a></li>
+			  <li><a id="ipt" href="https://capytale2.ac-paris.fr/web/c/ff82-7670447" target="_blank">Correction programmation dynamique</a></li>
+		</ul>
+		</li>
+		</ul>
 		
-		<tr>
-		  <td>
-		  </td>
-		  <td> 
-		    <a id="ipt" href="https://capytale2.ac-paris.fr/web/c/2fae-4093441" target="_blank">Correction</a>
-		  </td>
-		</tr>
-		
-		
+	<!--
 		<tr>
 		  <td>&bull;  DM n° 2 :
 		  </td>
