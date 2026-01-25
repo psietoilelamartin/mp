@@ -32,24 +32,22 @@
 	    <font style="font-weight: bold ;"> <center> Les cours </center></font>
 	    
 	    Merci à M. Solnon (PT, lycée Gustave Eiffel, Dijon ) qui nous permet d'utiliser ses documents de cours et de TP.
-	    <table>
-	      <tbody>
-		<tr><td> &bull; <a id="math" href="cours/DIC.chap.pdf" target="_blank"> Chapitre I : Listes et dictionnaires &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="math" href="cours/SQL.chap.pdf" target="_blank"> Chapitre II : Bases de données et langage SQL &nbsp;</a></td>
+	    <ul> 
+		<li> <a id="math" href="cours/DIC.chap.pdf" target="_blank"> Chapitre I : Listes et dictionnaires &nbsp;</a></li>
+		<li>  <a id="math" href="cours/SQL.chap.pdf" target="_blank"> Chapitre II : Bases de données et langage SQL &nbsp;</a></td>
 			   	<ul> 
 			   	<li> <a id="math" href="cours/pokebase.sqlite" target="_blank"> bdd des pokemons &nbsp;</a></li>
 		  			<li>  <a id="math" href="cours/pokebase.ods" target="_blank"> tableur &nbsp;</a></li>
 		  			<li>  <a id="math" href="https://capytale2.ac-paris.fr/web/c/9899-6965656" target="_blank"> notebook &nbsp;</a></li>
 		  			</ul>
-		<tr><td> &bull; <a id="math" href="cours/DYN.chap.pdf" target="_blank"> Chapitre III : Programmation dynamique &nbsp;</a></td>
+		<li>  <a id="math" href="cours/DYN.chap.pdf" target="_blank"> Chapitre III : Programmation dynamique &nbsp;</a></td>
 				<!--<td> &bull; <a id="math" href="cours/DYN-cor.pdf" target="_blank"> Programmes Python &nbsp;</a></td>--></tr>
-		<tr><td> &bull; <a id="math" href="cours/JEU.chap.pdf" target="_blank"> Chapitre IV : Jeux d'accessibilité à deux joueurs &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="math" href="cours/MIN.chap.pdf" target="_blank"> Chapitre V : Algorithme de min-max &nbsp;</a> </td></tr>
-		<tr><td> &bull; <a id="math" href="cours/KNN.chap.pdf" target="_blank"> Chapitre VI : Algorithme des K plus proches voisins &nbsp;</a></td>
-				<td> &bull; <a id="math" href="cours/fleches_donnees.py" target="_blank"> Exercice : détection de flèches &nbsp;</a></td></tr>
-		<tr><td> &bull; <a id="math" href="cours/Kme.chap.pdf" target="_blank"> Chapitre VII : Algorithme des K moyennes &nbsp;</a></td></tr>
-	      </tbody>
-	    </table>
+		<li>  <a id="math" href="cours/JEU.chap.pdf" target="_blank"> Chapitre IV : Jeux d'accessibilité à deux joueurs &nbsp;</a></li>
+		<li>  <a id="math" href="cours/MIN.chap.pdf" target="_blank"> Chapitre V : Algorithme de min-max &nbsp;</a> </li>
+		<li>  <a id="math" href="cours/KNN.chap.pdf" target="_blank"> Chapitre VI : Algorithme des K plus proches voisins &nbsp;</a>
+				<!--<td> &bull; <a id="math" href="cours/fleches_donnees.py" target="_blank"> Exercice : détection de flèches &nbsp;</a>--></li>
+		<li>  <a id="math" href="cours/Kme.chap.pdf" target="_blank"> Chapitre VII : Algorithme des K moyennes &nbsp;</a></li>
+	   </ul>
 	  </div>
 	</div>
       </div>
